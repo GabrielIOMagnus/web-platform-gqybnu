@@ -1,5 +1,5 @@
 html {
-  background-color: cornflowerblue;
+  background-color: wheat;
 }
 
 * {
@@ -9,8 +9,7 @@ html {
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: blue;
-  background-color: black;
+
 }
 
 nav {
@@ -24,22 +23,8 @@ nav {
   background-color: #eee;
 }
 
-nav a {
-  display: inline-block;
-  min-width: 9rem;
-  padding: 0.5rem;
-  border-radius: 0.2rem;
-  border: solid 1px #aaa;
-  text-align: center;
-  text-decoration: none;
-  color:white;
-  background-color: black;
-}
 
-nav a[aria-current='page'] {
-  color: #000;
-  background-color: #d4d4d4;
-}
+
 
 main {
   padding: 1rem;
