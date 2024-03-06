@@ -7,8 +7,9 @@ html {
 }
 
 body {
-  margin: 0;
-  font-family: system-ui, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 
 }
 
